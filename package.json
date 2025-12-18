@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-hw-2-119",
+  "name": "nodejs-hw-3-119",
   "version": "1.0.0",
   "type": "module",
   "description": "",
@@ -11,16 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Roman-Isko/nodejs-hw-2-119.git"
+    "url": "git+https://github.com/Roman-Isko/nodejs-hw-3-119.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Roman-Isko/nodejs-hw-2-119/issues"
+    "url": "https://github.com/Roman-Isko/nodejs-hw-3-119/issues"
   },
-  "homepage": "https://github.com/Roman-Isko/nodejs-hw-2-119#readme",
+  "homepage": "https://github.com/Roman-Isko/nodejs-hw-3-119#readme",
   "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "celebrate": "^15.0.3",
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
     "express": "^5.2.1",
